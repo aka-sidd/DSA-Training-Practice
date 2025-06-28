@@ -12,8 +12,11 @@ For each unique element in the array, print the element and its frequency in the
 Input:arr[] = [1,2,2,3,3,3];
 output: 
 1->1
+<br>
 2->2
+<br>
 3->3
+<br>
 
 🚀 Approach:
 Use a HashMap to store each element as a key and its frequency as the value.
