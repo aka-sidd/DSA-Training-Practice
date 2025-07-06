@@ -37,12 +37,6 @@ Find sum from index L = 1 to R = 3
 
 ---
 
-## 💻 Java Code
-
-See [Find PrefixSum.java](./PrefixSum.java)
-
----
-
 ## 🕒 Time & Space Complexity
 
 | Task                     | Complexity |
