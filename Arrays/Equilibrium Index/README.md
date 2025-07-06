@@ -1,4 +1,5 @@
-🧠 Approach
+🧠 Approach:
+<br>
 Calculate the total sum of the array.
 
 Iterate through the array while maintaining a running leftSum.
